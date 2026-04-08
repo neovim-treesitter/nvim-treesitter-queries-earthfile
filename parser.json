@@ -1,6 +1,6 @@
 {
+  "lang": "earthfile",
   "url": "https://github.com/glehmann/tree-sitter-earthfile",
   "semver": false,
-  "parser_version": "5baef88717ad0156fd29a8b12d0d8245bb1096a8",
-  "lang": "earthfile"
+  "parser_version": "5baef88717ad0156fd29a8b12d0d8245bb1096a8"
 }
